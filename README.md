@@ -5,4 +5,6 @@
  ---
  *To access the project's tech report* [Tech Report](https://docs.google.com/document/d/1y6cicVDGyPMFGnKAlqGxWDN4zQk0D9uY9cUfJcdD6Rc/edit?usp=sharing)
  
- 
+ ## Authors
+- [Mohamed Ahmed](https://github.com/mahmedken)
+- [Khaled El Bastawesy](https://github.com/khaledElbastawisy)
